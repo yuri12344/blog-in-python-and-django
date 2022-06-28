@@ -1,0 +1,1 @@
+Hi, this project is a personal Study Blog, with Python and Django, and this is the first version of README.md :D 
